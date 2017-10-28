@@ -30,4 +30,3 @@ function preserveDecimal(a) {
 
   return isNaN(parseFloat('2.222'));
 };
-  
