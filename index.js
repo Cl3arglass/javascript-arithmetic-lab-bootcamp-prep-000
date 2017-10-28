@@ -26,10 +26,7 @@ function makeInt(a) {
   return parseInt(a,10)
 };
 
-function preserveDecimal() {
+function preserveDecimal(isNaN(a)) {
   return parseFloat('2.222')
 };
 
-function preserveDecimal() {
-  return isNaN('hbkjhkj')
-}
