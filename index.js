@@ -26,7 +26,8 @@ function makeInt(a) {
   return parseInt(a,10)
 };
 
-function isNan(preserveDecimal(a)) {
+function preserveDecimal(a) {
 
-  return parseFloat('2.222')
+  return parseFloat('2.222');
+  return isNAN(a);
 }
