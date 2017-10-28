@@ -31,5 +31,5 @@ function preserveDecimal() {
 };
 
 function preserveDecimal() {
-  return isNan('hbkjhkj')
+  return isNaN('hbkjhkj')
 }
