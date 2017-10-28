@@ -28,6 +28,6 @@ function makeInt(a) {
 
 function preserveDecimal(a) {
 
-  return isNAN(parseFloat('2.222'));
+  return isNaN(parseFloat('2.222'));
 };
   
