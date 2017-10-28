@@ -29,4 +29,3 @@ function makeInt(a) {
 function preserveDecimal(isNaN(a)) {
   return parseFloat('2.222')
 };
-
